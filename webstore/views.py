@@ -17,6 +17,10 @@ def shop(request):
     return render(request,"shop.html")
 
 def form(request):
+    if request.method=='GET':
+        print("Get Method Called")
+    elif request.method=='Post':
+        print("Post Method Called")
     return render(request,"form.html")
 
 def cart(request):
