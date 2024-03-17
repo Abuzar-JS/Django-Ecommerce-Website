@@ -7,8 +7,7 @@
     <list default="true" id="4ff4a27b-5fc0-4398-ae16-8f07549f8a09" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arfamart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/arfamart/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webstore/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/webstore/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webstore/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/webstore/templates/form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
