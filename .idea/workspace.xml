@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff4a27b-5fc0-4398-ae16-8f07549f8a09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+    <list default="true" id="4ff4a27b-5fc0-4398-ae16-8f07549f8a09" name="Changes" comment="pycharm s">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,31 @@
       <option name="presentableId" value="Default" />
       <updated>1710585543940</updated>
     </task>
+    <task id="LOCAL-00001" summary="pycharm s">
+      <option name="closed" value="true" />
+      <created>1711067099706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711067099706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pycharm s" />
+    <option name="LAST_COMMIT_MESSAGE" value="pycharm s" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
