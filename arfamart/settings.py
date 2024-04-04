@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 # ALLOWED_HOSTS = ['.vercel.app']
+#for vercel
 
 
 # Application definition
